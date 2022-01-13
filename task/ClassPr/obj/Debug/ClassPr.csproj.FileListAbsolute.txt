@@ -1,0 +1,14 @@
+C:\Users\liftw\OneDrive\שולחן העבודה\c#\ClassPr\ClassPr\bin\Debug\ClassPr.exe.config
+C:\Users\liftw\OneDrive\שולחן העבודה\c#\ClassPr\ClassPr\bin\Debug\ClassPr.exe
+C:\Users\liftw\OneDrive\שולחן העבודה\c#\ClassPr\ClassPr\bin\Debug\ClassPr.pdb
+C:\Users\liftw\OneDrive\שולחן העבודה\c#\ClassPr\ClassPr\obj\Debug\ClassPr.csproj.AssemblyReference.cache
+C:\Users\liftw\OneDrive\שולחן העבודה\c#\ClassPr\ClassPr\obj\Debug\ClassPr.csproj.CoreCompileInputs.cache
+C:\Users\liftw\OneDrive\שולחן העבודה\c#\ClassPr\ClassPr\obj\Debug\ClassPr.exe
+C:\Users\liftw\OneDrive\שולחן העבודה\c#\ClassPr\ClassPr\obj\Debug\ClassPr.pdb
+C:\Users\liftw\OneDrive\שולחן העבודה\csharp\task\ClassPr\bin\Debug\ClassPr.exe.config
+C:\Users\liftw\OneDrive\שולחן העבודה\csharp\task\ClassPr\bin\Debug\ClassPr.exe
+C:\Users\liftw\OneDrive\שולחן העבודה\csharp\task\ClassPr\bin\Debug\ClassPr.pdb
+C:\Users\liftw\OneDrive\שולחן העבודה\csharp\task\ClassPr\obj\Debug\ClassPr.csproj.AssemblyReference.cache
+C:\Users\liftw\OneDrive\שולחן העבודה\csharp\task\ClassPr\obj\Debug\ClassPr.csproj.CoreCompileInputs.cache
+C:\Users\liftw\OneDrive\שולחן העבודה\csharp\task\ClassPr\obj\Debug\ClassPr.exe
+C:\Users\liftw\OneDrive\שולחן העבודה\csharp\task\ClassPr\obj\Debug\ClassPr.pdb
